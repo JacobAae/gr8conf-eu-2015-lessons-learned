@@ -1,0 +1,19 @@
+=== Ups
+
+[.step]
+* Great Projects
+* Engaging students (most of them)
+
+
+[NOTE.speaker]
+some notes
+
+
+
+=== Downs
+
+* Huge workload
+
+[NOTE.speaker]
+Notes on source code
+

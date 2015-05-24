@@ -1,0 +1,29 @@
+=== The Practical Info
+
+[.step]
+* University level (3rd & 4th year)
+* Full-stack Course
+* 42 Students -> 14 groups of 3
+
+[NOTE.speaker]
+DevOps, front+back-end
+
+
+////
+=== Groovy 1
+
+
+[source, language="groovy"]
+----
+println "Hello World"
+----
+
+<1> A constraints block
+
+TIP: A tip!
+
+
+[NOTE.speaker]
+Notes on source code
+
+////

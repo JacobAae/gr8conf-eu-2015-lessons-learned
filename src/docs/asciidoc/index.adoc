@@ -1,0 +1,51 @@
+= Lessons Learned Teaching a Groovy/Grails Course
+Jacob Aae Mikkelsen
+
+== Agenda
+
+* Course description
+* The Students
+* Example questions
+* Results
+* Reflections
+
+=== Jacob Aae Mikkelsen
+
+* Senior Engineer at Lego
+** CIT MA BIS
+** Microservice based architechture
+* Previously 4 years at Gennemtænkt IT
+** Consultant on Groovy and Grails
+* image:twitter.png[Twitter, 40,40 ,role="inline-image"] @JacobAae
+* Blogs http://grydeske.net/news[The Grails Diary]
+
+
+== Course description
+
+include::_course_description.adoc[]
+
+
+== The Students
+
+include::_students.adoc[]
+
+
+== Example Problems
+
+include::_problems.adoc[]
+
+
+== Results
+
+include::_results.adoc[]
+
+
+== Reflections
+
+include::_reflections.adoc[]
+
+
+
+
+== Questions?
+
